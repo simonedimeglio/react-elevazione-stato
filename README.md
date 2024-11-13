@@ -1,5 +1,5 @@
 
-# Condivision dello stato in React
+# Condivisione dello stato in React
 
 In REACT, lo stato all'interno di un componente è, *di default*, INACCESSIBILE dall'esterno.
 
